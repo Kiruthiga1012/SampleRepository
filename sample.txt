@@ -1,2 +1,4 @@
 Keyboard
 Mouse
+
+CPU
